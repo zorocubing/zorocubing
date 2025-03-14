@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on building businesses
 - 📫 How to reach me No
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: I play Genshin Impact
+- ⚡ Fun fact: I play games and sports
 
 <!---
 zorocubing/zorocubing is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
