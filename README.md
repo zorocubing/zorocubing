@@ -1,7 +1,1 @@
-- 👋 Hi, I’m @zorocubing
-- 👀 I’m interested in Agent AI and General Humanoid Robots
-- 🌱 I’m currently learning Python and AI
-- 💞️ I’m looking to collaborate on nothing currently
-- 📫 How to reach me X DM
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: Atom's development got suspended because of VSCode
+
