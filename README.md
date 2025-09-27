@@ -4,4 +4,4 @@
 - 💞️ I’m looking to collaborate on nothing
 - 📫 How to reach me via X DM
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: Cursor is a fork of VSCode
+- ⚡ Fun fact: Cursor is a fork of VS Code
