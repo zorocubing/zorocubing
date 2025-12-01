@@ -1,9 +1,9 @@
 ## About me
 
 - 👋 Hi, I’m @zorocubing
-- 👀 I’m interested in AI
-- 🌱 I’m currently learning Python and AI
-- 💞️ I’m looking to collaborate on nothing
-- 📫 How to reach me via X DM
+- 👀 I’m interested in AGI
+- 🌱 I’m currently on hiatus
+- 💞️ I’m looking to collaborate on the future
+- 📫 How to reach me via X DM or email my club
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: Cursor is a fork of VS Code
+- ⚡ Fun fact: VS Code Green is the Insider version
