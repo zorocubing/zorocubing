@@ -1,3 +1,5 @@
+## About me
+
 - 👋 Hi, I’m @zorocubing
 - 👀 I’m interested in AI
 - 🌱 I’m currently learning Python and AI
