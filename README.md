@@ -8,7 +8,7 @@ If an idea pops into my head, chances are I’ll build it and ship it.
 
 My main tech stack is Python, HTML, CSS, and some Javascript experiences. My favorite tools are Figma, Notion, and Slack.
 
-I’ve got a two pinned projects, clipcode which is built by me and webscraper built together with my club but my favorite is the project I'm building with my club right now [OpenDoor]([https://github.com/mirayatech/Anime-Scene-Gallery](https://github.com/St-Margarets-Coding-Club/opendoor)).
+I’ve got a two pinned projects, clipcode which is built by me and webscraper built together with my club but my favorite is the project I'm building with my club right now [OpenDoor](https://github.com/St-Margarets-Coding-Club/opendoor).
 
 I’ve built over 10 public repos, but privately.. it’s probably more than that at this point.
 
