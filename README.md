@@ -12,7 +12,7 @@ I’ve got a two pinned projects, clipcode which is built by me and webscraper b
 
 I’ve built over 10 public repos, but privately.. it’s probably more than that at this point.
 
-If you want to contact me, [My X](https://x.com/zorocubing) and our [club email](stmargaretscodingclub@gmail.com) are available here!
+If you want to contact me, [My X](https://x.com/zorocubing) and our stmargaretscodingclub@gmail.com are available here!
 
 #### Fun Facts:
 
