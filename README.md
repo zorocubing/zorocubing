@@ -1,6 +1,6 @@
 ### Hey there! <img src="https://emojis.slackmojis.com/emojis/images/1536351075/4594/blob-wave.gif" width="25"/>
 
-I’m [**Kanson**](https://www.zorocubing.com), a developer based in Hong Kong.
+I’m [**Kanson**](https://zorocubing.github.io/), a developer based in Hong Kong.
 
 I design and build products that solves my daily problems, they could be desktop apps, web apps and vscode extensions.
 
