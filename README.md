@@ -1,20 +1,9 @@
 ### Hey there! <img src="https://emojis.slackmojis.com/emojis/images/1536351075/4594/blob-wave.gif" width="25"/>
 
-I’m [**Kanson**](https://zorocubing.github.io/), a developer based in Hong Kong.
+I’m [**Kanson**](https://zorocubing.github.io/), a high schooler from Hong Kong.
 
-I design and build products that solves my daily problems, they could be desktop apps, web apps and vscode extensions.
+I built [**Clip Code**](https://github.com/zorocubing/clipcode), a VS Code extension that allows users to use Ollama models from a chat window in VS Code directly, and it has 116 installs up till now.
 
-If an idea pops into my head, chances are I’ll build it and ship it.
+I started a coding club at school last year, and our most significant project was [**OpenDoor**](https://github.com/St-Margarets-Coding-Club/opendoor), an animal adoption website to check through n animals in our database from HKAAC, SAA, HKRS, and HKDR. We also had 23 visitors on our websites on average during our peak, and 31 followers on our Instagram page, which were acquired mostly through IRL sales funnel.
 
-My main tech stack is Python, HTML, CSS, and some Javascript experiences. My favorite tools are Figma, Notion, and Slack.
-
-I’ve got a two pinned projects, clipcode which is built by me and webscraper built together with my club but my favorite is the project I'm building with my club right now [OpenDoor](https://github.com/St-Margarets-Coding-Club/opendoor).
-
-I’ve built over 10 public repos, but privately.. it’s probably more than that at this point.
-
-#### Fun Facts:
-
-* I started coding in 2024
-* I think AI for science is more interesting than LLMs
-* a16z is my favorite Venture Capital despite not having strong portfolios like Sequoia Capital or Founders Fund
-* **Hobbies:** coding, reading, dreaming
+I'm currently learning JAX's Scaling Book. I'm doing the exercises, writing the code, recording the proof, and writing a report at the process, and it's not finished yet, but here is the repo, [**Scaling Law Report**]([https://github.com/zorocubing/clipcode](https://github.com/zorocubing/scaling-law-report))
